@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy estudiante en una tecnicatura de desarrollo de software y <br>me apasiona el mundo de la tecnología, me gusta también hacer algunos proyectos propios como hobby en mis tiempos libres.
+Soy estudiante en una tecnicatura de desarrollo de software y me apasiona el mundo de la tecnología, me gusta también hacer algunos proyectos propios como hobby en mis tiempos libres.
 
 
 # 💻 Tech Stack:
